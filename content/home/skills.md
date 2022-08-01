@@ -16,18 +16,37 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 60%
+  - description: Numpy, Scipy, Matplotlib, Scikit Learn ...
     icon: python
     icon_pack: fab
     name: Python
-  - description: 100%
+    
+  - description: Symbolic Calculations, ODE, Interactive Manipulation 
     icon: mathematica
+    icon_pack: "custom"
+    name: Mathematica
+
+  - description: Graphic Design
+    icon: bezier-curve
+    icon_pack: fas
+    name: Adobe Illustrator
+
+  - description: Explainable Machine Learning, Streamlit
+    icon: code
+    icon_pack: fas
+    name: Machine Learning
+
+  - description: Technical Writing
+    icon: overleaf
+    icon_pack: ai
+    name: LaTex
+
+  - description: Design of Experiment, Expolratory Data Analysis
+    icon: chart-area
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+
+        
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
