@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: ''
+subtitle: 'Some Random Ideas'
 
 content:
   # Page type to display. E.g. project.
@@ -27,10 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Data Science
+      tag: Data Sience
+    - name: Machine Learning
+      tag: ML
+    - name: Materials Science
+      tag: MSE
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
